@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* .hero-img {
+    background-image: url('../img/bg1.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;} */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.test-hero {
+    border: 2px solid black;
+    margin-top: 50px;
+}
