@@ -1,0 +1,9 @@
+Pertanyaan untuk brahma
+1. Apa itu css? sama css jenis apa yang kamu pakai?
+Jawaban : CSS adalah Bahasa pemrograman yang kita gunakan untuk memberikan tampilan visual pada website kita. Untuk jenis CSS yang brahma gunakan boleh dicari jenis apa ya=)
+
+2. Bisa kasih tau ga bagaimana caranya membuat sebuah kode html?
+Jawaban : Buka visual studio code atau code editor yang kita mau. Lalu kita harus buat folder kosong terlebih dahulu dengan nama foldernya sesuai dengan project kita (kasih contoh ya. misalkan nama folder nya project-brahma). Setelah itu di folder itu kita harus bikin index.html dulu buat jadi halaman paling pertama dari website kita.
+
+3. Inspirasi brahma bikin website ini itu apa?
+Jawaban : Dijawab sesuai brahma ya
